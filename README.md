@@ -12,4 +12,4 @@
 | Dylan  | [Review](https://master.d2oni7czs61jbq.amplifyapp.com/)     | [➡️ code](https://github.com/dbaer2025/midterm1)       |
 | David  | [Preferences](https://master.d1su2b8wdgsshv.amplifyapp.com/)     | [➡️ code](https://github.com/Daveyd423/app10)       |
 | Megan  | [Recipe Box](https://master.d3k8ejyz56vrtg.amplifyapp.com/)     | [➡️ code](https://github.com/MeganHeadrick/r3box)       |
-| AJ  | [Subscriptions](https://master.drp1qksbll5hd.amplifyapp.com/)     | [➡️ code]((https://github.com/AmazingAJ10/subs3))       |
+| AJ  | [Subscriptions](https://master.d36yrka8mwnsoo.amplifyapp.com/)     | [➡️ code]((https://github.com/AmazingAJ10/subs3))       |
