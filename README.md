@@ -8,3 +8,4 @@
 | Tyler  | [Clothing](https://master.d2bo7ras3cl1be.amplifyapp.com)     | [➡️ code](https://github.com/tmastrangelo/amplifyapp2)       |
 | Xavier  | [Survey](https://master.d3e0cdy5iwwhqs.amplifyapp.com/)     | [➡️ code](https://github.com/xbb73/xsurveyapp)       |
 | Clement  | [Calculator](https://master.dljqyyq8bbrg0.amplifyapp.com/)     | [➡️ code](https://github.com/Clement-Wright/redoapp2)       |
+| Christian  | [Tutoring](https://master.d1qpdj5ao982pp.amplifyapp.com/)     | [➡️ code](https://github.com/cdiaz2024/tutoruiapp)       |
