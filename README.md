@@ -10,3 +10,4 @@
 | Clement  | [Calculator](https://master.dljqyyq8bbrg0.amplifyapp.com/)     | [➡️ code](https://github.com/Clement-Wright/redoapp2)       |
 | Christian  | [Tutoring](https://master.d1qpdj5ao982pp.amplifyapp.com/)     | [➡️ code](https://github.com/cdiaz2024/tutoruiapp)       |
 | Dylan  | [Review](https://master.d3c0rktuijxvux.amplifyapp.com/)     | [➡️ code](https://github.com/dbaer2025/midterm1)       |
+| David  | [Preferences](https://master.d2ls4m7uqru7rh.amplifyapp.com/)     | [➡️ code](https://github.com/Daveyd423/app10)       |
