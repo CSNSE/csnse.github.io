@@ -2,7 +2,7 @@
 
 | coder | CRUD App | repo |
 | :------------------- | :----------: | ----------: |
-| Mr. Headrick  | [Notes](https://master.d3rxz4q46ualig.amplifyapp.com/)     | [➡️ code](https://github.com/csn-bot)       |
+| Mr. Headrick  | [Notes](https://master.dadp4d5z22gio.amplifyapp.com/)    | [➡️ aa3](https://github.com/CSNSE/aa3)       |
 | Landon     | [Recipes](https://master.d3mlatfxeg8eej.amplifyapp.com)  | [➡️ code](https://github.com/CSNSE/reactapp3)    |
 | Tyler  | [Clothing-not working](https://master.d2bo7ras3cl1be.amplifyapp.com)     | [➡️ code](https://github.com/tmastrangelo/amplifyapp2)       |
 | Xavier  | [Survey](https://master.d19zxbd6yf6ee.amplifyapp.com/)     | [➡️ code](https://github.com/xbb73/xsurveyapp)       |
