@@ -4,7 +4,7 @@
 | :------------------- | :----------: | ----------: |
 | Mr. Headrick  | [Notes](https://master.dadp4d5z22gio.amplifyapp.com/)    | [➡️ aa3](https://github.com/CSNSE/aa3)       |
 | Landon     | [Recipes](https://master.d3mlatfxeg8eej.amplifyapp.com)  | [➡️ reactapp3](https://github.com/CSNSE/reactapp3)    |
-| Tyler  | [Clothing-not working](https://master.d2bo7ras3cl1be.amplifyapp.com)     | [➡️ code](https://github.com/tmastrangelo/amplifyapp2)       |
+| Tyler  | [Clothing](https://master.d2bo7ras3cl1be.amplifyapp.com)     | [➡️ amplifyapp2](https://github.com/tmastrangelo/amplifyapp2)       |
 | Xavier  | [Survey](https://master.d19zxbd6yf6ee.amplifyapp.com/)     | [➡️ xsurveyapp](https://github.com/xbb73/xsurveyapp)       |
 | Clement  | [Calculator](https://master.dljqyyq8bbrg0.amplifyapp.com/)     | [➡️ code](https://github.com/Clement-Wright/redoapp2)       |
 | Christian  | [Tutoring](https://master.d1qpdj5ao982pp.amplifyapp.com/)     | [➡️ code](https://github.com/cdiaz2024/tutoruiapp)       |
