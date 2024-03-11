@@ -8,7 +8,7 @@
 | Tyler  | [NO AWS YET]     | [➡️ twitter](https://github.com/CSNSE/csn-twitter)       |
 | Xavier  | [Survey](https://master.d19zxbd6yf6ee.amplifyapp.com/)     | [➡️ xsurveyapp](https://github.com/xbb73/xsurveyapp)       |
 | Clement  | [Calculator](https://master.dljqyyq8bbrg0.amplifyapp.com/)     | [➡️ code](https://github.com/Clement-Wright/redoapp2)       |
-| Christian  | [Tutoring](https://master.d1qpdj5ao982pp.amplifyapp.com/)     | [➡️ tutoruiapp](https://github.com/cdiaz2024/tutoruiapp)       |
+| Christian  | [Workout](https://master.d32bzyyvevh52o.amplifyapp.com/)     | [➡️ workouttracker](https://github.com/CSNSE/workouttracker)       |
 | Dylan  | [Review](https://master.d3c0rktuijxvux.amplifyapp.com/)     | [➡️ code](https://github.com/dbaer2025/midterm1)       |
 | David  | [Preferences](https://master.d2ls4m7uqru7rh.amplifyapp.com)     | [➡️ app10](https://github.com/Daveyd423/app10)       |
 | Megan  | [Recipe Box](https://master.d2ybyitz30a9pb.amplifyapp.com/)     | [➡️ code](https://github.com/MeganHeadrick/r3box)       |
